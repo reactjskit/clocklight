@@ -2,7 +2,7 @@
 
 ## It is based on ReactJs which uses `conic gradient`.
 
-### Screenhot:
+### Screenshot:
 <div align="center">
 <img src="./screenshots/clocklight.png" width="400" height="center">
 </div>
